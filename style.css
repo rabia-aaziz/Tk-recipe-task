@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Roboto Slab', serif;
+}
+.recipe-sec{
+    background-color:#fffaef;
+    padding: 10px;
+}
+li{
+    font-style: italic;
+}
+h3,h1,p{
+    padding: 10px;
+    
+}
+h3,h1
+{
+ font-weight: bold; 
+}
